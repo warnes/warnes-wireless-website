@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+6509107.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1768354316|KOghEPsyxlew
+6509107.wixsite.com	TRUE	/	FALSE	1999999999	sec-fetch-unsupported	1
+6509107.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+6509107.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=virginia-pub_g
+

@@ -1,0 +1,26 @@
+HTTrack3.49-2 launched on Tue, 13 Jan 2026 20:31:56 at https://6509107.wixsite.com/website
+(httrack https://6509107.wixsite.com/website )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:32:06	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/ (from https://6509107.wixsite.com/website)
+20:32:06	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/t (from https://6509107.wixsite.com/website)
+20:32:06	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/e (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/window.location.href (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/api/ (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/envelope/ (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/sitemap.xml (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/feed.xml (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/decodeURIComponent(e (from https://6509107.wixsite.com/website)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/website/t (from https://6509107.wixsite.com/website/privacy)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/website/e (from https://6509107.wixsite.com/website/privacy)
+20:32:13	Error: 	"Bad Request" (400) at link https://6509107.wixsite.com/website/window.location.href (from https://6509107.wixsite.com/website/privacy)
+20:32:13	Error: 	"Bad Request" (400) at link https://6509107.wixsite.com/website/robots.txt (from https://6509107.wixsite.com/website/privacy)
+20:32:13	Error: 	"Not Found" (404) at link https://6509107.wixsite.com/website/feed.xml (from https://6509107.wixsite.com/website/privacy)
+20:32:13	Error: 	"Bad Request" (400) at link https://6509107.wixsite.com/website/decodeURIComponent(e (from https://6509107.wixsite.com/website/privacy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 20 links scanned, 4 files written (1044212 bytes overall) [319376 bytes received at 18786 bytes/sec], 1082113 bytes transferred using HTTP compression in 20 files, ratio 26%
+(15 errors, 0 warnings, 0 messages)
